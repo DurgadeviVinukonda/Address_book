@@ -29,7 +29,11 @@ All contact data is stored persistently using a CSV file.
 Address_book/
 │
 ├── main.c # Main program
+
 ├── addressbook.c # Address book functions
+
 ├── addressbook.h # Header file
+
 ├── database.csv # Contact storage file
+
 └── README.md # Project documentation
